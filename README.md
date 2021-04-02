@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @junkai559
+- 👋 Hi, I’m @junkai323
 - 👀 I’m interested in ETL processes and FinML.
 - 🌱 I’m currently learning Tableau & Google App Script.
 - 💞️ I’m looking to collaborate on any interesting projects for an edge in the financial world. 
